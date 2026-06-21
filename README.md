@@ -1,4 +1,6 @@
-# MobileNetSSD Object Detection
+# MobileNetSSD Object Detection 🤖
+
+(Note: This project was made in 2025, but I decided to upload it to GitHub in 2026 to keep it safe :D. )
 
 Last time, I tried detecting faces. Now, I want to detect multiple things at once.
 
